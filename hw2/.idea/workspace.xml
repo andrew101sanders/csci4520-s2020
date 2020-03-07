@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7c7e92da-39fd-45d5-aad6-b5c60cafdfa5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="HW2" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XYwn5K0fvEiNOXiO97ta4Z90jQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python.NaiveBayes">
+    <configuration name="NB" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HW2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NB.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="NaiveBayes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HW2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NaiveBayes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.NaiveBayes" />
+        <item itemvalue="Python.NB" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="showServicesTree" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c7e92da-39fd-45d5-aad6-b5c60cafdfa5" name="Default Changelist" comment="" />
+      <created>1581236499602</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581236499602</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="199" key="#Inspections" timestamp="1581387142741">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="199" key="#Inspections/0.0.1920.1080/1920.0.1920.1040@0.0.1920.1080" timestamp="1581387142741" />
+    <state x="715" y="242" key="#xdebugger.evaluate" timestamp="1581484140731">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="715" y="242" key="#xdebugger.evaluate/0.0.1920.1080/1920.0.1920.1040@0.0.1920.1080" timestamp="1581484140731" />
+    <state width="1899" height="182" key="GridCell.Tab.0.bottom" timestamp="1582137858916">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="182" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1040@0.0.1920.1080" timestamp="1582137858916" />
+    <state width="1899" height="174" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1040@1920.0.1920.1040" timestamp="1581661349792" />
+    <state width="1899" height="182" key="GridCell.Tab.0.center" timestamp="1582137858916">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="182" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1040@0.0.1920.1080" timestamp="1582137858916" />
+    <state width="1899" height="174" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1040@1920.0.1920.1040" timestamp="1581661349792" />
+    <state width="1899" height="182" key="GridCell.Tab.0.left" timestamp="1582137858915">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="182" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1040@0.0.1920.1080" timestamp="1582137858915" />
+    <state width="1899" height="174" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1040@1920.0.1920.1040" timestamp="1581661349792" />
+    <state width="1899" height="182" key="GridCell.Tab.0.right" timestamp="1582137858916">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="182" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1040@0.0.1920.1080" timestamp="1582137858916" />
+    <state width="1899" height="174" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1040@1920.0.1920.1040" timestamp="1581661349792" />
+    <state width="1899" height="364" key="GridCell.Tab.1.bottom" timestamp="1581520060140">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="364" key="GridCell.Tab.1.bottom/0.0.1920.1080/1920.0.1920.1040@0.0.1920.1080" timestamp="1581520060140" />
+    <state width="1899" height="364" key="GridCell.Tab.1.center" timestamp="1581520060140">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="364" key="GridCell.Tab.1.center/0.0.1920.1080/1920.0.1920.1040@0.0.1920.1080" timestamp="1581520060140" />
+    <state width="1899" height="364" key="GridCell.Tab.1.left" timestamp="1581520060140">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="364" key="GridCell.Tab.1.left/0.0.1920.1080/1920.0.1920.1040@0.0.1920.1080" timestamp="1581520060140" />
+    <state width="1899" height="364" key="GridCell.Tab.1.right" timestamp="1581520060140">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="364" key="GridCell.Tab.1.right/0.0.1920.1080/1920.0.1920.1040@0.0.1920.1080" timestamp="1581520060140" />
+    <state width="968" height="548" key="XDebugger.FullValuePopup" timestamp="1581483238130">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="968" height="548" key="XDebugger.FullValuePopup/0.0.1920.1080/1920.0.1920.1040@0.0.1920.1080" timestamp="1581483238130" />
+    <state x="743" y="311" key="com.intellij.ide.util.TipDialog" timestamp="1582131805300">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="743" y="311" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/1920.0.1920.1040@0.0.1920.1080" timestamp="1582131805300" />
+    <state x="531" y="275" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1581483754431">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="531" y="275" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1080/1920.0.1920.1040@0.0.1920.1080" timestamp="1581483754431" />
+    <state x="682" y="452" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1581387192900">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="682" y="452" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1920.1080/1920.0.1920.1040@0.0.1920.1080" timestamp="1581387192900" />
+  </component>
+</project>
