@@ -8,6 +8,7 @@ datafile_x, datafile_y, X_train, X_test, y_train, y_test, Log_Reg = None, None, 
 def getData():
     global datafile_x, datafile_y, X_train, X_test, y_train, y_test
     datafile = pd.read_csv('adult.data')
+
     datafile_x = pd.get_dummies(datafile.iloc[:, :-1])
     datafile_y = datafile.iloc[:, -1]
     X_train, X_test, y_train, y_test = train_test_split(datafile_x, datafile_y.values.ravel(), test_size=0.2)
